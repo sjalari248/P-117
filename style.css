@@ -1,0 +1,42 @@
+body{
+    background-color: blanchedalmond;
+   }
+   #span1{
+       font-size: 25px;
+       color:tan;
+       float:left;
+       margin-left: 50px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+   #span2{
+       font-size: 25px;
+       color:tan;
+       float:right;
+       margin-right: 80px;
+       font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+   #to_be_drawn{
+   color:rgb(158, 81, 10);
+   font-family:offside;
+   font-weight: bold;
+   }
+   #show_sketch{
+       float:right;
+       margin-right: 80px; 
+       background-color:salmon;
+       font-size: 16px;
+       font-family:offside;
+   }
+   #p1{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+   color:salmon;
+   }
+   #confidence{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+   color:salmon;
+   }
+   h1{
+   font-family:offside;
+   font-weight: bolder;
+   background-color: wheat;
+   }
